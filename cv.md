@@ -7,22 +7,22 @@ Contact me:
 **[LinkedIn](https://www.linkedin.com/in/vlad-stepovoy/) |**
 **[Telegram](https://t.me/vladstepovoy)**
 
-##Summary
+## Summary
 
 I'm a fan of the personal professional growth and want to improve my technical background to the next level. 
 
-##Skills
+## Skills
 * Java
 * HTML&CSS
 * Javascript
 * React.JS
 * Git
 
-##Code examples
+## Code examples
 
 **[Simple React.JS & SpringBoot application(latest)](https://github.com/vladstepway/PersonalPMTool)**
 
-##Education
+## Education
 
 * **Belarusian State University of Informatics and Radioelectronics**     
 _Bachelor of Infortmation systems and technologies,  2016 – 2020_  
@@ -36,14 +36,14 @@ _Java SE & Java EE Programming - Stormnet Technologies, Jan 2019_
 * **RS School**     
     _JavaScript/Front-end, coming soon..._
     
-##Experience
+## Experience
 
 * **[System Technologies](https://www.st.by/en/)**   
     _Junior Java Developer, Mar 2019 - Jan 2020_
 * **[ScienceSoft](https://www.scnsoft.com/)**   
     _Java Developer, Jan 2020 - Present_
     
-##English
+## English
 
 **Intermediate - B1**       
 Practicing on watching movies with subtitles, learning any information preferably in english
