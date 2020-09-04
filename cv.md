@@ -35,3 +35,15 @@ _Java SE & Java EE Programming - Stormnet Technologies, Jan 2019_
     * _JavaScript - The Complete Guide 2020, coming soon..._ 
 * **RS School**     
     _JavaScript/Front-end, coming soon..._
+    
+##Experience
+
+* **[System Technologies](https://www.st.by/en/)**   
+    _Junior Java Developer, Mar 2019 - Jan 2020_
+* **[ScienceSoft](https://www.scnsoft.com/)**   
+    _Java Developer, Jan 2020 - Present_
+    
+##English
+
+**Intermediate - B1**       
+Practicing on watching movies with subtitles, learning any information preferably in english
