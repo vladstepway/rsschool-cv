@@ -20,4 +20,18 @@ I'm a fan of the personal professional growth and want to improve my technical b
 
 ##Code examples
 
-**[Simple React.JS & SpringBoot application](https://github.com/vladstepway/PersonalPMTool)**
+**[Simple React.JS & SpringBoot application(latest)](https://github.com/vladstepway/PersonalPMTool)**
+
+##Education
+
+* **Belarusian State University of Informatics and Radioelectronics**     
+_Bachelor of Infortmation systems and technologies,  2016 – 2020_  
+
+* **Stormnet Technologies**     
+_Java SE & Java EE Programming - Stormnet Technologies, Jan 2019_
+
+* **Udemy: Online Courses**     
+    * _Full Stack Project: Spring Boot 2.0, ReactJS, Redux, Jul 2020_
+    * _JavaScript - The Complete Guide 2020, coming soon..._ 
+* **RS School**     
+    _JavaScript/Front-end, coming soon..._
