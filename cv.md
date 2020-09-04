@@ -10,3 +10,10 @@ Contact me:
 ##Summary
 
 I'm a fan of the personal professional growth and want to improve my technical background to the next level. 
+
+##Skills
+* Java
+* HTML&CSS
+* Javascript
+* React.JS
+* Git
