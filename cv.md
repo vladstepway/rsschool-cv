@@ -6,3 +6,7 @@ Contact me:
 **[Gmail](mailto:vladstepovoyvios@gmail.com) |** 
 **[LinkedIn](https://www.linkedin.com/in/vlad-stepovoy/) |**
 **[Telegram](https://t.me/vladstepovoy)**
+
+##Summary
+
+I'm a fan of the personal professional growth and want to improve my technical background to the next level. 
