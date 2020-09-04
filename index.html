@@ -3,28 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <title>vladstepway CV</title>
+    <link rel="stylesheet" href="./assets/style.css">
 </head>
 <body>
 <div class="content">
-    <header>
-    </header>
-    <div>
-        <img src="./assets/myphoto.jpg" alt="my-photo">
-        <h1>Vladislav Stepovoy</h1>
-        <ul class="contacts">
-            <li>Location: Minsk, Belarus</li>
-            <li>Call me: +375 29 155 73 58</li>
-            <li><a href="mailto:vladstepovoyvios@gmail.com" target="_blank">Gmail</a></li>
-            <li><a href="https://www.linkedin.com/in/vlad-stepovoy/" target="_blank">LinkedIn</a></li>
-            <li><a href="https://t.me/vladstepovoy" target="_blank">Telegram</a></li>
-        </ul>
+    <div class="my-info">
+        <div class="photo">
+            <img src="./assets/myphoto.jpg" alt="my-photo">
+            <h1>Vladislav Stepovoy</h1>
+        </div>
+        <div class="common-info">
+            <div class="contacts">
+                <ul>
+                    <li>Location: Minsk, Belarus</li>
+                    <li>Call me: +375 29 155 73 58</li>
+                    <li><a href="mailto:vladstepovoyvios@gmail.com" target="_blank">Gmail</a></li>
+                    <li><a href="https://www.linkedin.com/in/vlad-stepovoy/" target="_blank">LinkedIn</a></li>
+                    <li><a href="https://t.me/vladstepovoy" target="_blank">Telegram</a></li>
+                </ul>
+            </div>
+            <div class="summary">
+                <h1>Summary</h1>
+                <p>I'm a fan of the personal professional growth and want to improve my technical background to the next
+                    level.
+                </p>
+            </div>
+        </div>
     </div>
-    <section id="summary">
-        <h1>Summary</h1>
-        <p>I'm a fan of the personal professional growth and want to improve my technical background to the next
-            level.</p>
-    </section>
-    <section id="skills"><h1>Skills</h1>
+    <div id="skills">
+        <h1>Skills</h1>
         <ul>
             <li>Java</li>
             <li>HTML&CSS</li>
@@ -32,13 +39,19 @@
             <li>React.JS</li>
             <li>Git</li>
         </ul>
-    </section>
-    <section id="code-example">
-        <h1>Code example</h1>
-        <a href="https://github.com/vladstepway/PersonalPMTool" target="_blank">Simple React.JS & SpringBoot
-            application(latest)</a>
-    </section>
-    <section id="education"><h1>Education</h1>
+    </div>
+    <div id="code-example">
+        <h1>Code examples</h1>
+        <ul>
+            <li>
+                <a href="https://github.com/vladstepway/PersonalPMTool" target="_blank">
+                    <b>Simple React.JS & SpringBoot application(latest)</b>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div id="education">
+        <h1>Education</h1>
         <ul>
             <li>
                 <b>Belarusian State University of Informatics and Radioelectronics</b><br>
@@ -60,24 +73,25 @@
                 <i>JavaScript/Front-end, coming soon...</i>
             </li>
         </ul>
-    </section>
-    <section id="experience"><h1>Experience</h1>
+    </div>
+    <div id="experience">
+        <h1>Experience</h1>
         <ul>
             <li>
-                <b>System Technologies</b><br>
+                <b><a href="https://www.st.by/en/" target="_blank">System Technologies</a></b><br>
                 <i>Junior Java Developer, Mar 2019 - Jan 2020</i>
             </li>
             <li>
-                <b>ScienceSoft</b><br>
+                <b><a href="https://www.scnsoft.com/" target="_blank">ScienceSoft</a></b><br>
                 <i>Java Developer, Jan 2020 - Present</i>
             </li>
         </ul>
-    </section>
-    <section id="english">
+    </div>
+    <div id="english">
         <h1>English</h1>
         <b>Intermediate - B1</b>
         <i>Practicing on watching movies with subtitles, learning any information preferably in english</i>
-    </section>
+    </div>
 </div>
 </body>
 </html>
