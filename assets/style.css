@@ -3,8 +3,23 @@ body {
     padding: 0;
 }
 
-.my-info {
+.flex-container {
     display: flex;
+    flex-direction: column;
+    max-width: 1024px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.flex-container .my-info {
+    flex-direction: row;
+}
+
+.flex-container .skills-education {
+    flex-direction: row;
+}
+
+.flex-container .code-example-experience {
     flex-direction: row;
 }
 
@@ -18,21 +33,27 @@ body {
     flex-direction: column;
 }
 
-ul {
-    list-style: none;
-    padding: 0;
+.contacts ul li {
+    color: red;
+    display: inline;
 }
 
-ul li {
-    padding: 10px 30px;
-    background: linear-gradient(to left, #f8ab8d 0%, white, #f8ab8d);
-    border-bottom: 1px solid grey;
-    color: #506a6b;
-    font-size: 20px;
-    box-shadow: 0 5px 5px 0 rgba(0, 0, 0, .2);
-    margin-bottom: 5px;
+.skills ul li {
+    color: brown;
 }
 
-ul li:last-child {
-    border-bottom: none;
+.education ul li {
+    color: blue;
+}
+
+.experience ul li {
+    color: chocolate;
+}
+
+.code-example ul li {
+    color: blueviolet;
+}
+
+footer .flex-container .footer {
+    flex-direction: row;
 }
