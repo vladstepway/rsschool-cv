@@ -6,7 +6,7 @@ Contact me:
 **[Gmail](mailto:vladstepovoyvios@gmail.com) |** 
 **[LinkedIn](https://www.linkedin.com/in/vlad-stepovoy/) |**
 **[Telegram](https://t.me/vladstepovoy)**
-**[](https://www.codewars.com/users/vladstepway/badges/large)**
+**[Codewars](https://www.codewars.com/users/vladstepway/badges/large)**
 
 ## Summary
 
