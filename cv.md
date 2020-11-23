@@ -1,6 +1,6 @@
 # Vladislav Stepovoy
 
-**[Codewars](https://www.codewars.com/users/vladstepway/badges/large)**
+![Codewars](https://www.codewars.com/users/vladstepway/badges/large)
 
 Location:  **Minsk, Belarus**  
 Call me: **+375 29 155 73 58**  
