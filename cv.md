@@ -21,10 +21,15 @@ I'm a fan of the personal professional growth and want to improve my technical b
 * Git
 
 ## Code examples
-
-**[Simple React.JS & SpringBoot application(latest)](https://github.com/vladstepway/PersonalPMTool)**
-
 **[Covid-19 Dashboard](https://github.com/vladstepway/covid-19-dashboard)**
+
+**[Gem puzzle](https://github.com/vladstepway/gem-puzzle)**
+
+**[Simple React.JS & SpringBoot application](https://github.com/vladstepway/PersonalPMTool)**
+
+
+
+
 
 ## Education
 
