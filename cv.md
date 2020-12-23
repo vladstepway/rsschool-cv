@@ -23,7 +23,7 @@ I'm a fan of the personal professional growth and want to improve my technical b
 ## Code examples
 
 **[Simple React.JS & SpringBoot application(latest)](https://github.com/vladstepway/PersonalPMTool)**
-**[Covid-19 Dashboard](https://github.com/vladstepway/covid-19-dashboard)
+**[Covid-19 Dashboard](https://github.com/vladstepway/covid-19-dashboard)**
 
 ## Education
 
