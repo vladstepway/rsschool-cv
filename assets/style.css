@@ -1,0 +1,59 @@
+body {
+    color: #ffffff;
+    background: #c8c6c6;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 1024px;
+    margin: auto;
+    width: 100%;
+}
+
+.flex-container .my-info {
+    flex-direction: row;
+}
+
+.flex-container .skills-education {
+    flex-direction: row;
+}
+
+.flex-container .code-example-experience {
+    flex-direction: row;
+}
+
+.photo img {
+    width: 250px;
+    height: 250px;
+}
+
+.common-info {
+    display: flex;
+    flex-direction: column;
+}
+
+li a:visited, a:active {
+    color: #000000;
+}
+
+.contacts ul li {
+    color: #000000;
+    display: inline;
+}
+
+.skills ul li {
+    color: brown;
+}
+
+.education ul li {
+    color: blue;
+}
+
+.experience ul li {
+    color: chocolate;
+}
+
+.code-example ul li {
+    color: blueviolet;
+}
